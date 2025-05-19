@@ -1,1 +1,1 @@
-# ai_chat_log_summarizer
+# ai_chat_log_summarizer taks assigned by Qtec Solution Limited
